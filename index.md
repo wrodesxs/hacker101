@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Testfor2020
 ---
 
 <div class="container-fluid">
@@ -23,7 +23,7 @@ title: Home
     </div>
     <div class="bg-dark col offset-md-2 border border-success text-center text-white overflow-hidden">
       <div class="mt-2 pt-2">
-        <h2 class="display-5e"><a href="videos" class="text-white">Video Lessons</a></h2>
+        <h2 class="display-5e"><a href="videos" class="text-white">portugal e o covid</a></h2>
         <p class="lead"><a href="videos" class="text-white" style="text-decoration: none">Learn to hack with our free video lessons, guides, and resources</a></p>
       </div>
       <a href="videos" class="pb-0 mb-0"><div class="mx-auto pb-0 mb-0" style="width: 300px; height: 200px; border-radius: 15px 15px 0 0; background-image: url(assets/images/lessons.png); background-size: contain;"></div></a>
